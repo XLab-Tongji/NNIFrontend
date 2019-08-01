@@ -1,0 +1,29 @@
+
+.Logo{
+
+    /*position:absolute;*/
+    /*left:0;*/
+}
+.LogoImg{
+    /*position: relative;*/
+    /*top:0;*/
+    /*left:0;*/
+    width:66px;
+    height: 44px;
+
+}
+.Title{
+    color:white;
+    text-align:left;
+    font-size:19px;
+    /*position: relative;*/
+    /*left:0.8cm;*/
+
+}
+.userName{
+    color:white;
+    text-align:right;
+    /*position:absolute;*/
+    /*top:0;*/
+    /*right:5cm;*/
+}

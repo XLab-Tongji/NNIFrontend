@@ -1,0 +1,125 @@
+@import '~antd/dist/antd.css';
+/*<meta name="viewport" content="width=device-width,initial-scale=1.0">*/
+
+
+/*.ant-menu-submenu-selected {*/
+/*    color: #F8B814;*/
+/*}*/
+/*.ant-menu-item > a:hover {*/
+/*    color: #F8B814;*/
+/*}*/
+/*.ant-menu-submenu-title:hover {*/
+/*    color: #F8B814;*/
+/*}*/
+/*.Menu{*/
+
+/*}*/
+/*.Menu.Item:hover{*/
+/*    background:green;*/
+/*}*/
+/*.mainPage{*/
+/*    position:fixed;*/
+/*    width:100%;*/
+/*    height:60px;*/
+/*    zIndex:5;*/
+/*    color:blue;*/
+
+/*}*/
+.sider{
+    position:fixed;
+    top:1.5cm;
+    left:0cm;
+    /*z-index:50;*/
+    /*opacity: 0.9;*/
+    /*width:100px;*/
+
+}
+
+.all{
+     max-width:1600px;
+     margin:0 auto;
+}
+.Main{
+    background-color: #ECECEC;
+    width:100vw;
+    height:100vh;
+}
+.btn{
+    background:rgba(248,184,20,1);
+    border-radius:4px;
+}
+.uploadButton{
+    width:200px;
+    height:10px;
+}
+.mpyButton{
+    position:absolute;
+    top:10px;
+    left:50px;
+    z-index:50;
+    width:200px;
+    height:150px;
+}
+/*.ymlButton{*/
+/*    position:absolute;*/
+/*    top:10px;*/
+/*    left:400px;*/
+/*    width:200px;*/
+/*    z-index:50;*/
+/*    height:150px;*/
+/*}*/
+/*.ButtonArea{*/
+/*    background-color:rgba(256,256,256,0.7);*/
+/*    border:1px solid gray;*/
+/*    position:absolute;*/
+/*    top:2cm;*/
+/*    left:7.3cm;*/
+/*    height:200px;*/
+/*    width:1000px;*/
+/*}*/
+/*.OperationHeader{*/
+/*    text-align:center;*/
+/*    position:relative;*/
+/*    top:0;*/
+/*    left:0;*/
+/*    width:1000px;*/
+/*    height:50px;*/
+/*}*/
+/*.JsonArea{*/
+/*    background-color:rgba(256,256,256,0.5);*/
+/*    border:1px solid gray;*/
+/*    position:absolute;*/
+/*    top:300px;*/
+/*    left:7.5cm;*/
+/*    !*left:0px;*!*/
+/*    height:450px;*/
+/*    width:480px;*/
+/*}*/
+/*.JsonArea2{*/
+/*    background-color:rgba(256,256,256,0.5);*/
+/*    border:1px solid gray;*/
+/*    position:absolute;*/
+/*    top:300px;*/
+/*    left:9.5cm;*/
+/*    height:450px;*/
+/*    width:480px;*/
+
+/*}*/
+/*.StartButton{*/
+/*    width:100px;*/
+/*    height:50px;*/
+/*    position:absolute;*/
+/*    top:50px;*/
+/*    left:800px;*/
+/*    z-index:50;*/
+
+/*}*/
+/*.StopButton{*/
+/*    width:100px;*/
+/*    height:50px;*/
+/*    position:absolute;*/
+/*    top:120px;*/
+/*    left:800px;*/
+/*    z-index:50;*/
+
+/*}*/

@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+.show-content{
+	width:280px;
+    word-wrap:break-word;
+   
+}
+.table1 table{
+	table-layout: fixed;
+}
+.table1 .ant-table-tbody > tr > td {
+  word-wrap: break-word;
+  word-break: break-all;
+}
+/*.btn{
+	background:rgba(248,184,20,1);
+    border-radius:4px;
+}
+.tableButton1{
+   background:rgba(248,184,20,1);
+   border-radius:4px;
+}
+.tableButton2{
+   background:rgba(248,184,20,1);
+   border-radius:4px;	
+}*/
