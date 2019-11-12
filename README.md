@@ -3,9 +3,8 @@
 
 ```
 npx create-react-app 409
-
 ```
-此时浏览器自动打开http://localhost:3000/，则说明配置成功。
+此过程需要一定时间（几分钟），并自动创建文件夹```/409```。之后浏览器自动打开http://localhost:3000/，显示create react app的官方界面，则说明配置成功。
 
 关于以上步骤更详细的说明，参见 [官方文档](https://www.html.cn/create-react-app/docs/getting-started/)
 
@@ -15,14 +14,13 @@ npx create-react-app 409
 
 ```
 npm install
-
 ```
-运行项目
+依赖安装完成后运行项目
 
 ```
 npm start
 ```
-打开http://localhost:3000/，即进入默认的登陆页面。
+打开http://localhost:3000/，即进入本项目默认的登陆页面。
 
 #### 3. 后台地址
 https://github.com/XLab-Tongji/NNIFlaskBackend/blob/master/readme.md
